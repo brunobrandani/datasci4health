@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Projeto <Título em Português>
+# Project <Title in English>
+# Descrição Resumida do Projeto
+<Descrição do tema do projeto, incluindo motivação e contexto gerador.>
 
-You can use the [editor on GitHub](https://github.com/brunobrandani/datasci4health/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Perguntas de Pesquisa
+<Perguntas de pesquisa que o projeto pretende responder ou hipóteses a serem avaliadas, enunciadas de maneira objetiva e verificável.>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Bases de Dados
+Elencar bases de dados candidatas a serem utilizadas no projeto.
 
-### Markdown
+# Metodologia
+Proposta de metodologia incluindo especificação de quais técnicas pretende-se explorar, tais como: aprendizagem de máquina, análise de redes, análise estatística, ou integração de uma ou mais técnicas.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Ferramentas
+Ferramentas a serem utilizadas (com base na visão atual do grupo sobre o projeto).
 
-```markdown
-Syntax highlighted code block
+# Cronograma
+Proposta de cronograma.
 
-# Header 1
-## Header 2
-### Header 3
+# Vídeo do projeto
+<Inserir vídeo de até 5 minutos>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brunobrandani/datasci4health/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Equipe
+* Bruno Basso Brandani - 101671
+* <nome> - <RA>
+* <nome> - <RA>
+* <nome> - <RA>
