@@ -35,5 +35,5 @@ Proposta de cronograma.
 # Equipe
 * Ana Paula de Oliveira Dias - 231273
 * Bruno Basso Brandani - 101671
-* <nome> - <RA>
+* João Henrique Faria - 170501
 * <nome> - <RA>
