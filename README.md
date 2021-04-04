@@ -1,5 +1,17 @@
 # Projeto "Estudo sobre HIV/AIDS"
-# Project <Title in English>
+# Project "HIV/AIDS study."
+
+# Apresentação
+
+O presente projeto foi originado no contexto das atividades da disciplina de pós-graduação Ciência e Visualização de Dados em Saúde, oferecida no primeiro semestre de 2021, na Unicamp.
+
+| Nome                       | RA     | Especialização |
+|:--------------------------:|:------:|:--------------:|
+| Bruno Basso Brandani       | 101671 | **ESPECIAL.**  |
+| João Henrique Faria        | 170501 | Elétrica       |
+| Ana Paula de Oliveira Dias | 231273 | Saúde          |
+| **NOME**                   | **RA** | **ESPECIAL.**  |
+
 # Descrição Resumida do Projeto
 <Descrição do tema do projeto, incluindo motivação e contexto gerador.>
 
@@ -31,9 +43,3 @@ Proposta de cronograma.
 
 # Vídeo do projeto
 <Inserir vídeo de até 5 minutos>
-
-# Equipe
-* Ana Paula de Oliveira Dias - 231273
-* Bruno Basso Brandani - 101671
-* João Henrique Faria - 170501
-* <nome> - <RA>
