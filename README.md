@@ -10,15 +10,15 @@
 Bases de dados encontradas que serão úteis no estudo desse projeto:
 
 ## UNAIDS
-https://aidsinfo.unaids.org/
+* https://aidsinfo.unaids.org/
 
 ## Bureau
-https://www.census.gov/data-tools/demo/hiv/#/records
+* https://www.census.gov/data-tools/demo/hiv/#/records
 
 ## Stanford
-https://hivdb.stanford.edu/pages/genotype-rx.html
-https://hivdb.stanford.edu/pages/genotype-phenotype.html
-https://hivdb.stanford.edu/pages/genotype-clinical.html
+* https://hivdb.stanford.edu/pages/genotype-rx.html
+* https://hivdb.stanford.edu/pages/genotype-phenotype.html
+* https://hivdb.stanford.edu/pages/genotype-clinical.html
 
 # Metodologia
 Proposta de metodologia incluindo especificação de quais técnicas pretende-se explorar, tais como: aprendizagem de máquina, análise de redes, análise estatística, ou integração de uma ou mais técnicas.
