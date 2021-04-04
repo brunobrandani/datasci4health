@@ -1,4 +1,4 @@
-# Projeto <Título em Português>
+# Projeto "Estudo sobre HIV/AIDS"
 # Project <Title in English>
 # Descrição Resumida do Projeto
 <Descrição do tema do projeto, incluindo motivação e contexto gerador.>
