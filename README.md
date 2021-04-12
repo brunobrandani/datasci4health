@@ -57,9 +57,9 @@ A linguagem será utilizada para extração de informações das redes sociais a
 
 ### ABRIL - Ideação e fundamentação teórica, busca por bases de dados
 
-08 - Primeiro encontro para ideação do estudo  
-12 - Elaboração da apresentação e gravação do vídeo  
-13 - Primeira entrega: Plano de projeto  
+*08 - Primeiro encontro para ideação do estudo  
+*12 - Elaboração da apresentação e gravação do vídeo  
+*13 - Primeira entrega: Plano de projeto  
 Definição da pergunta de pesquisa, base de dados a serem utilizadas, metodologia e ferramentas, cronograma e vídeo explicativo.
 
 ### MAIO - Preparo dos dados, limpeza e análises
