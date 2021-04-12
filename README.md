@@ -11,8 +11,8 @@ Quais tem sido o comportamento dos profissionais de saúde em suas redes sociais
 # Bases de Dados
 Bases de dados encontradas que serão úteis no estudo desse projeto:
 
-* Informações de usuários do Linkedin;
-* Informações de usuários do Tweeter;
+* Informações de usuários do Linkedin; e
+* Informações de usuários do Tweeter.
 
 
 # Metodologia
