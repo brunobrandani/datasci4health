@@ -45,13 +45,20 @@ Ferramentas a serem utilizadas no projeto:
 
 # Cronograma
 ## ABRIL  - Ideação e fundamentação teórica. Busca por bases de dados
-13 - Primeira entrega: 
+13 - Primeira entrega: Plano de projeto
+Definição da pergunta de pesquisa, base de dados a serem utilizadas, metodologia e ferramentas, cronograma e vídeo explicativo.
 
 ## MAIO - Preparo dos dados, limpeza e análises
+11 - Segunda entrega: Base de Dados de Trabalho
+Criação de códigos para extração de dados das redes sociais, busca pelas principais fake news veiculadas durante a pandemia, busca pelas datas marcantes da pandemia.
+Consolidação inicial dos dados e pré-processamento.
 
 ## JUNHO - Interpretação e discussão dos dados
+24 - Terceira entrega: Entrega Final
+Conexão entre fonte de dados, interpretação dos resultados e aplicação de análises estatítiscas sobre os dados obtidos.
+Consolidação das informações geradas e formalização da apresentação dos resultados.
 
-## JULHO - Compilação e finalização. Publicar as descobertas
+24, 29, 1/Julho - Apresentação
 
 # Vídeo do projeto
 <Inserir vídeo de até 5 minutos>
