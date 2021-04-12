@@ -8,9 +8,9 @@ Quais tem sido o comportamento dos profissionais de saúde em suas redes sociais
 
 ## Perguntas de Pesquisa
 
-* O que os Profissionais de Saúde (PF) têm compartilhado em suas redes sociais sobre a COVID-19?
+* O que os Profissionais de Saúde (PS) têm compartilhado em suas redes sociais sobre a COVID-19?
 * Os PS utilizam de suas redes para desabafarem sobre o enfrentamento à COVID-19?
-* Os PF combatem ou disseminam *fake news*?
+* Os PS combatem ou disseminam *fake news*?
 
 ## Bases de Dados
 
@@ -27,11 +27,11 @@ Utilizando-se a estratégia **PICO**, elencamos os seguintes objetos de estudo:
 
 * **P**: usuários do LinkedIn e Twitter
 
-* **I**: Pessoas com nível superior em saúde
+* **I**: pessoas com nível superior em saúde
 
-* **C** (comparador): Outras profissões
+* **C**: outras profissões
 
-* **O**: Disseminação de *fake news*
+* **O**: disseminação de *fake news*
 
 A proposta é analisarmos a prevalência das publicações dos profissionais da saúde em suas redes sociais. O grupo irá realizar análises estatísticas com base nos dados extraídos, visando encontrar padrões que assemelhem ou diferenciem os profissionais da saúde dos demais profissionais.
 
@@ -57,8 +57,8 @@ A linguagem será utilizada para extração de informações das redes sociais a
 
 ### ABRIL - Ideação e fundamentação teórica, busca por bases de dados
 
-08 - Primeiro encontro para ideação do estudo
-12 - Elaboração da apresentação e gravação do vídeo
+08 - Primeiro encontro para ideação do estudo  
+12 - Elaboração da apresentação e gravação do vídeo  
 13 - Primeira entrega: Plano de projeto  
 Definição da pergunta de pesquisa, base de dados a serem utilizadas, metodologia e ferramentas, cronograma e vídeo explicativo.
 
