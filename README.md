@@ -6,7 +6,7 @@ Quais tem sido o comportamento dos profissionais de saúde em suas redes sociais
 # Perguntas de Pesquisa
 * O que os Profissionais de Saúde(PS) têm compartilhado em suas redes sociais sobre a COVID-19? 
 * Os PS utilizam de suas redes para desabafarem sobre o enfrentamento à COVID-19? 
-* Os PS combatem ou disseminam fake news?
+* Os PF combatem ou disseminam fake news?
 
 # Bases de Dados
 Bases de dados encontradas que serão úteis no estudo desse projeto:
@@ -70,4 +70,4 @@ Consolidação das informações geradas e formalização da apresentação dos 
 * Ana Paula de Oliveira Dias - 231273
 * Bruno Basso Brandani - 101671
 * João Henrique Faria - 170501
-* <nome> - <RA>
+* Vanessa Gomes Lima - 223810
