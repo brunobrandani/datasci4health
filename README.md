@@ -56,6 +56,7 @@ A ferramenta será útil na busca por termos em evidência nas buscas de usuári
 A linguagem será utilizada para extração de informações das redes sociais a serem analisadas. Também será utilizada para pré-processamento e análises estatísticas dos dados obtidos.
 
 ### GitHub
+
 Documentação e versionamento do projeto.
 
 ## Cronograma
@@ -63,7 +64,9 @@ Documentação e versionamento do projeto.
 ### ABRIL - Ideação e fundamentação teórica, busca por bases de dados
 
 08 - Primeiro encontro para ideação do estudo  
+
 12 - Elaboração da apresentação e gravação do vídeo  
+
 13 - Primeira entrega: Plano de projeto  
 Definição da pergunta de pesquisa, base de dados a serem utilizadas, metodologia e ferramentas, cronograma e vídeo explicativo.
 
