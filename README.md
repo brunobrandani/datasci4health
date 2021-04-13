@@ -19,6 +19,8 @@ Quais tem sido o comportamento dos profissionais de saúde em suas redes sociais
 
 Hipótese: Ser profisisonal de saúde é fator protetor na disseminação da fake news.
 
+[Video de apresentação do projeto](video_apresentacao.mp4)
+
 ## Perguntas de Pesquisa
 
 * O que os Profissionais de Saúde (PS) têm compartilhado em suas redes sociais sobre a COVID-19?
@@ -94,7 +96,3 @@ Conexão entre fonte de dados, interpretação dos resultados e aplicação de a
 Consolidação das informações geradas e formalização da apresentação dos resultados.
 
 24, 29, 1/Julho - Apresentação
-
-## Vídeo do projeto
-
-[Video de apresentação do projeto](video_apresentacao.mp4)
