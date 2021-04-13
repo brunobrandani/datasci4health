@@ -55,6 +55,9 @@ A ferramenta será útil na busca por termos em evidência nas buscas de usuári
 
 A linguagem será utilizada para extração de informações das redes sociais a serem analisadas. Também será utilizada para pré-processamento e análises estatísticas dos dados obtidos.
 
+### GitHub
+Documentação e versionamento do projeto.
+
 ## Cronograma
 
 ### ABRIL - Ideação e fundamentação teórica, busca por bases de dados
