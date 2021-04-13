@@ -34,7 +34,7 @@ Bases de dados encontradas que serão úteis no estudo desse projeto:
 
 ## Metodologia
 
-* Estudo transversal, retrospectivo, com seleção de amostra de conveniência.
+* Estudo transversal, retrospectivo, não randomizado (seleção de amostra de conveniência).
 
 Utilizando-se a estratégia **PICO**, elencamos os seguintes objetos de estudo:
 
