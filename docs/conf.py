@@ -182,11 +182,11 @@ latex_elements = {
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
-latex_documents = [ # TODO
+latex_documents = [
     ('index',
      'datasci4health.tex',
-     u'Estudo sobre HIV/AIDS Documentation',
-     u"Your name (or your organization/company/team)", 'manual'),
+     u'Comportamento dos profissionais da sáude nas redes sociais sobre a COVID-19',
+     u"UNICAMP", 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -214,9 +214,9 @@ latex_documents = [ # TODO
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
-man_pages = [ # TODO
-    ('index', 'datasci4health', u'Estudo sobre HIV/AIDS Documentation',
-     [u"Your name (or your organization/company/team)"], 1)
+man_pages = [
+    ('index', 'datasci4health', u'Comportamento dos profissionais da sáude nas redes sociais sobre a COVID-19 Documentation',
+     [u"UNICAMP"], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -228,10 +228,10 @@ man_pages = [ # TODO
 # Grouping the document tree into Texinfo files. List of tuples
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
-texinfo_documents = [ # TODO
-    ('index', 'datasci4health', u'Estudo sobre HIV/AIDS Documentation',
-     u"Your name (or your organization/company/team)", 'Estudo sobre HIV/AIDS',
-     'A short description of the project.', 'Miscellaneous'),
+texinfo_documents = [
+    ('index', 'datasci4health', u'Comportamento dos profissionais da sáude nas redes sociais sobre a COVID-19 Documentation',
+     u"UNICAMP", 'Comportamento dos profissionais da sáude nas redes sociais sobre a COVID-19',
+     'Quais tem sido o comportamento dos profissionais de saúde em suas redes sociais? Eles disseminam ou combatem as fake news? Eles defendem o tratamento precoce ou pedem para que as pessoas fiquem em suas casas e sigam o isolamento social, na medida do possível? Em tempos de infodemia, temos as mídias socias cada vez mais como uma ferramenta de difusão de informações - mas como separar as informações corretas daquelas que enganam e desinformam? Espera-se que os profissionais da sáude sejam pessoas com senso crítico e com a implementação das evidências científicas em suas práticas profissionais, mas será que eles compartilham desses conhecimentos advindos da leitura de artigo científicos, protocolos e orentações internacionais?', 'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.
