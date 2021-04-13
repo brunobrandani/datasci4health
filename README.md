@@ -97,4 +97,4 @@ Consolidação das informações geradas e formalização da apresentação dos 
 
 ## Vídeo do projeto
 
-[!video_do_projeto](zoom_0.mp4)
+<source src="zoom_0.mp4" type="video/mp4">
