@@ -97,4 +97,4 @@ Consolidação das informações geradas e formalização da apresentação dos 
 
 ## Vídeo do projeto
 
-<Inserir vídeo de até 3 minutos>
+[!video_do_projeto](zoom_0.mp4)
