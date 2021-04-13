@@ -35,6 +35,7 @@ Bases de dados encontradas que serão úteis no estudo desse projeto:
 ## Metodologia
 
 Proposta de metodologia incluindo especificação de quais técnicas pretende-se explorar, tais como: aprendizagem de máquina, análise de redes, análise estatística, ou integração de uma ou mais técnicas.
+Estudo transversal, retrospectivo.
 
 Utilizando-se a estratégia **PICO**, elencamos os seguintes objetos de estudo:
 
