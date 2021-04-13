@@ -1,9 +1,9 @@
-.. Estudo sobre HIV/AIDS documentation master file, created by
+.. Comportamento dos profissionais da sáude nas redes sociais sobre a COVID-19 documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Estudo sobre HIV/AIDS documentation!
+Comportamento dos profissionais da sáude nas redes sociais sobre a COVID-19 documentation!
 ==============================================
 
 Contents:
