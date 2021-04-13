@@ -2,6 +2,17 @@
 
 ## Project "Health professionals' behavior on social media about the COVID-19"
 
+## Apresentação
+
+O presente projeto foi originado no contexto das atividades da disciplina de pós-graduação Ciência e Visualização de Dados em Saúde, oferecida no primeiro semestre de 2021, na Unicamp.
+
+| Nome                       | RA     | Especialização |
+|:---------------------------|:------:|:---------------|
+| Ana Paula de Oliveira Dias | 231273 | saúde          |
+| Bruno Basso Brandani       | 101671 | computação     |
+| João Henrique Faria        | 170501 | computação     |
+| Vanessa Gomes Lima         | 223810 | saúde          |
+
 ## Descrição Resumida do Projeto
 
 Quais tem sido o comportamento dos profissionais de saúde em suas redes sociais? Eles disseminam ou combatem as *fake news*? Eles defendem o tratamento precoce ou pedem para que as pessoas fiquem em suas casas e sigam o isolamento social, na medida do possível? Eles utilizam suas redes sociais para desabafar e fazer denúncias sobre suas condições de trabalho? Em tempos de infodemia, temos as mídias socias cada vez mais como uma ferramenta de difusão de informações - mas como separar as informações corretas daquelas que enganam e desinformam? Espera-se que os profissionais da sáude sejam pessoas com senso crítico e com a implementação das evidências científicas em suas práticas profissionais, mas será que eles compartilham desses conhecimentos advindos da leitura de artigo científicos, protocolos e orentações internacionais?
@@ -86,11 +97,4 @@ Consolidação das informações geradas e formalização da apresentação dos 
 
 ## Vídeo do projeto
 
-<Inserir vídeo de até 5 minutos>
-
-## Equipe
-
-* Ana Paula de Oliveira Dias - 231273
-* Bruno Basso Brandani - 101671
-* João Henrique Faria - 170501
-* Vanessa Gomes Lima - 223810
+<Inserir vídeo de até 3 minutos>
