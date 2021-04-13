@@ -6,10 +6,13 @@
 
 Quais tem sido o comportamento dos profissionais de saúde em suas redes sociais? Eles disseminam ou combatem as *fake news*? Eles defendem o tratamento precoce ou pedem para que as pessoas fiquem em suas casas e sigam o isolamento social, na medida do possível? Eles utilizam suas redes sociais para desabafar e fazer denúncias sobre suas condições de trabalho? Em tempos de infodemia, temos as mídias socias cada vez mais como uma ferramenta de difusão de informações - mas como separar as informações corretas daquelas que enganam e desinformam? Espera-se que os profissionais da sáude sejam pessoas com senso crítico e com a implementação das evidências científicas em suas práticas profissionais, mas será que eles compartilham desses conhecimentos advindos da leitura de artigo científicos, protocolos e orentações internacionais?
 
+Hipótese: Ser profisisonal de saúde é fator protetor na disseminação da fake news?
+
 ## Perguntas de Pesquisa
 
 * O que os Profissionais de Saúde (PS) têm compartilhado em suas redes sociais sobre a COVID-19?
 * Os PS combatem ou disseminam *fake news*?
+* Com qual frequência os PS combatem ou disseminam *fake news* em comparação com outras profissões?
 
 ## Bases de Dados
 
