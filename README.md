@@ -9,7 +9,6 @@ Quais tem sido o comportamento dos profissionais de saúde em suas redes sociais
 ## Perguntas de Pesquisa
 
 * O que os Profissionais de Saúde (PS) têm compartilhado em suas redes sociais sobre a COVID-19?
-* Os PS utilizam de suas redes para desabafarem sobre o enfrentamento à COVID-19?
 * Os PS combatem ou disseminam *fake news*?
 
 ## Bases de Dados
